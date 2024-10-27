@@ -90,3 +90,9 @@ p {
   transition: all 150ms ease-in-out;
   aspect-ratio: 1;
 }
+
+#devotional {
+  color: rgb(255, 199, 232);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
