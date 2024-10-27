@@ -35,7 +35,7 @@ p {
   opacity: 0.9;
 }
 
-#search-form-input {
+#user-instructions {
   background-color: #f9f7fe;
   border: none;
   border-radius: 6px;
@@ -48,8 +48,8 @@ p {
 .search-form-button {
   background: white;
   color: rgb(65, 65, 65);
-  padding: 15px 30px;
   border: none;
+  padding: 15px 30px;
   font-size: 16px;
   margin-left: 5px;
   border-radius: 6px;
